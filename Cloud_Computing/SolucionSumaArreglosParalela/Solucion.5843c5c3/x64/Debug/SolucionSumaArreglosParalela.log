@@ -1,0 +1,4 @@
+﻿  SolucionSumaArreglosParalela.cpp
+C:\Users\priet\source\repos\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(24,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\priet\source\repos\SolucionSumaArreglosParalela\SolucionSumaArreglosParalela.cpp(25,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SolucionSumaArreglosParalela.vcxproj -> C:\Users\priet\source\repos\SolucionSumaArreglosParalela\x64\Debug\SolucionSumaArreglosParalela.exe
